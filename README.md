@@ -14,7 +14,7 @@ We then built a robot and controlled it with an arduino using the best agent fou
 
 ![realrobot](./media/realrobot.gif)
 
-The code isn't easily replicable at the moment since it needs a licence for vRep
+The code isn't easily replicable at the moment since it needs a licence for vRep which is not free except for students. 
 
 References:
 
